@@ -21,7 +21,7 @@ A conversational AI app inspired by OpenAI's GPT-3 language model, built with Cr
 1. Clone the repository
 
 ```
-git clone https://github.com/dhiant/react-chatGPT-clone.git
+git clone https://github.com/hirokisaito912/react-chatGPT.git
 ```
 
 2. Install client dependencies
@@ -72,12 +72,6 @@ node index.js
 - Check if your client application run on port 3000 with the development environment configuration, so in your browser just go to http://localhost:3000
 
 - Check if your server application run on port 4000
-
-## Contribution
-
-All contributions are welcome. Feel free to open an issue or create a pull request. And I will be more than happy for sponsors.
-
-<a href="https://www.buymeacoffee.com/sushantdhimal" target="_blank"><img src="./client/public/buymeacoffee.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
 
 ## Liscence
 
